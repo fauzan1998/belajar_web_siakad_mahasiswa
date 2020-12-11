@@ -1,5 +1,5 @@
 # belajar_web_siakad_mahasiswa
-Untuk Belajar PHP
+Untuk Belajar PHP,MySql,HTML,CSS
 
 Aplikasi Ini dibuat untuk latihan belajar CRUD data mahasiswa konek dengan database MySql.
 
